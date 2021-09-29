@@ -56,4 +56,4 @@ Android端长按“重置”断开所有可以断开的外部设备，长按“�
 
  ___文档没有写完___
 
-[English Readme](https://github.com/kaivictor/Table-tennis-scorer/readme_En.md)
+[English Readme](https://github.com/kaivictor/Table-tennis-scorer/blob/main/readme_En.md)
